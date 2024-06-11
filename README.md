@@ -1,4 +1,4 @@
-# Case Study Template for Splunk Inc.
+# Case Study of Splunk Inc.
 
 ## Overview and Origin
 
