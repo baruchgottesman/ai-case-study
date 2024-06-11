@@ -30,7 +30,9 @@ _The source of the data about the original private investment is based on a cont
 _The source of this information includes the most recent 10Q filed by the company that identifies its strength and what the company does and intends to do._
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?  The intended customer are Enterprise users (think - Fortune 500 companies) that harvest massive amount of data and need a roadmap through their systems to properly use them.  A pharmaceutical company with massive compliance obligations, trade secrets protections concerns, collaboration needs, and an ongoing need of market insight would be able to take advantage of Splunk.  A startup research company, by contrast, would need a different solution more attuned to their needs.  The market size of the companies and entities that use Splunk are national-sized entities.  By way of example, Splunk has a project it launched during COVID to
+
 > “simulat[e] the Entire US Pharmaceutical Supply Chain with Full-Stack Analytics”
+
 that would be used by government and global pharmaceutical companies.
 
 _The basis of this information is information provided by the company including marketing material as well as disclosures in the most recent 10Q._
