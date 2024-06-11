@@ -4,7 +4,7 @@
 
 * Name of Company: Splunk Inc.
 
-* When was the company incorporated: Initially incorporated in California on October 29, 2003; Legacy Merged out to Delaware Corporation (also named Splunk Inc.) on May 5, 2006; Company became wholly owned subsidiary of Cisco Systems, Inc. of Delaware on March 18, 2024.
+* When was the company incorporated:  Initially incorporated in California on October 29, 2003; Legacy Merged out to Delaware Corporation (also named Splunk Inc.) on May 5, 2006; Company became wholly owned subsidiary of Cisco Systems, Inc. of Delaware on March 18, 2024.
 
 _The source of this information are the corporate information websites of the California and Delaware Secretaries of State; as well as information about the recent merger from SEC filings by Splunk Inc._
 
@@ -29,13 +29,15 @@ _The source of the data about the original private investment is based on a cont
 * What specific problems is the company or project trying to solve? Splunk is intended for large firms that have to address “big data” including machine-generated data.  It allows enterprise users to collect, manage, and search through large amounts of machine-generated data.  It provides a way for organizations to engage in analytics, compliance and security; and is transitioning to the use of AI and Machine Learning to push the limits of how its customers can identify trends, anticipate problems, and think through solutions through the use of AI technologies and tools.
 _The source of this information includes the most recent 10Q filed by the company that identifies its strength and what the company does and intends to do._
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?  The intended customer are Enterprise users (think - Fortune 500 companies) that harvest massive amount of data and need a roadmap through their systems to properly use them.  A pharmaceutical company with massive compliance obligations, trade secrets protections concerns, collaboration needs, and an ongoing need of market insight would be able to take advantage of Splunk.  A startup research company, by contrast, would need a different solution more attuned to their needs.  The market size of the companies and entities that use Splunk are national-sized entities (e.g. Splunk has a project it launched during COVID to “simulat[e] the Entire US Pharmaceutical Supply Chain with Full-Stack Analytics” that would be used by government and global pharmaceutical companies.
+* Who is the company's intended customer? Is there any information about the market size of this set of customers?  The intended customer are Enterprise users (think - Fortune 500 companies) that harvest massive amount of data and need a roadmap through their systems to properly use them.  A pharmaceutical company with massive compliance obligations, trade secrets protections concerns, collaboration needs, and an ongoing need of market insight would be able to take advantage of Splunk.  A startup research company, by contrast, would need a different solution more attuned to their needs.  The market size of the companies and entities that use Splunk are national-sized entities.  By way of example, Splunk has a project it launched during COVID to
+> “simulat[e] the Entire US Pharmaceutical Supply Chain with Full-Stack Analytics”
+that would be used by government and global pharmaceutical companies.
 
 _The basis of this information is information provided by the company including marketing material as well as disclosures in the most recent 10Q._
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)   Splunk has experience with more than two decades in the market as it has grown from a startup to a multi-billion behemoth that’s become CISCO’s play into AI.  It has the benefit of network effects as data managers have used the system for years and many apps have been developed that plug into Spark to leverage its capabilities; which only further locks it in.  It now has the benefit of being a CISCO company and can be plugged into Fortune 500 companies and government projects.
+* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)   Splunk has more than two decades of experience in the market as it has grown from a startup to a multi-billion behemoth that’s become CISCO’s play into AI.  It has the benefit of network effects as data managers have used the system for years and many apps have been developed that plug into Spark to leverage its capabilities; which only further locks it in.  It now has the benefit of being a CISCO company and can be plugged into Fortune 500 companies and government projects.
 
-_Ihe basis for this information is research conducted online about which entities are a good fit for Splunk._
+_The basis for this information is research conducted online about which entities are a good fit for Splunk._
 
 * Which technologies are they currently using, and how are they implementing them?  Crunchbase reports that Splunk uses 98 products including HTML5, iQuery, and Google Analytics (ironic, considering the business model).   Broadly, the key APIs and integrations outward from Splunk are about creating apps and interfaces that make it possible and easy for users to access information on any number of platforms (from the iOS to Android ecosystems, including its own suite of apps aimed for different use cases).
 
@@ -45,7 +47,7 @@ _The basis for this information is Crunchbase data (non-subscription, so limited
 
 * What field is the company in?  Big Data Management and the transition of Big Data Management companies to AI.
 
-_The basis for this information is its 10Q and public discussions online about the company, including its Wikipedia article.__
+_The basis for this information is its 10Q and public discussions online about the company, including its Wikipedia article._
 
 *  What have been the major trends and innovations of this field over the last 10 years?   The quantity and quality of data available to and used by customers has grown exponentially.  Compliance obligations including the GDPR and local laws in California and elsewhere; as well as regulations and rules that are coming online in many domains, required increased insight into data by large organizations.  The COVID experience superpowered these requirements and in so doing, also created business opportunities for Splunk.   More broadly, management of big data including the implementation of AI has become increasingly important for large firms and organizations.
 
